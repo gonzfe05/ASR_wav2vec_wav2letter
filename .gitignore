@@ -1,0 +1,6 @@
+*.wav
+*.hdf5
+temp/
+*_old
+.vscode
+__pycache__
