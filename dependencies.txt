@@ -1,0 +1,7 @@
+Update nvidia drivers
+arrayfire: https://github.com/arrayfire/arrayfire/wiki/Build-Instructions-for-Linux
+nccl: https://docs.nvidia.com/deeplearning/nccl/install-guide/index.html
+cudnn: https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
+gloo: https://github.com/facebookincubator/gloo
+mkl: https://github.com/intel/mkl-dnn/#using-intel-mkl-optional
+flashlight: https://fl.readthedocs.io/en/latest/installation.html
